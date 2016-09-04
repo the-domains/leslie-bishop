@@ -1,19 +1,4 @@
-name: Leslie Bishop
-favicon: null
-layout_spectrum: 0.31654473720118403
 typography_spectrum: 0.3468920812010765
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.4379361055325717
   saturation: 0.9103390630334616
   rhythmicContrast: 0.26394371315836906
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.31654473720118403
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Leslie Bishop
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Employee Morale Specialist
 purpose: []
